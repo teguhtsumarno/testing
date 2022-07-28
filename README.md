@@ -25,4 +25,4 @@ commit changes
 --git commit -m "input message"
 
 push
--- git push
+-- git push --set-upstream origin adityajalu
